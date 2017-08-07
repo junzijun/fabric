@@ -13,4 +13,6 @@ func main(){
 	a := Person{"aaaa",21}
 	z := Person{"zzzz",25}
 	fmt.Println(a,z)
+
+	fmt.Print("jiabo")
 }
